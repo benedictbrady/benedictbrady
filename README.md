@@ -1,1 +1,1 @@
-some fun projects
+some projects
